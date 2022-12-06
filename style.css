@@ -1,0 +1,22 @@
+body {
+				width: 0 auto;
+}
+.container {
+				height: 400px ;
+				width: 90%;
+				background-image: url('img1.png');
+				background-size: cover ;
+				border : 10px solid black ;
+				border-radius : 15px ;
+				margin: 0 auto;
+				line-height : 400px;
+				text-align : center ;
+}
+.nextBtn{
+				position : relative ;
+				left : 100px;
+}
+.prevBtn{
+				position : relative ;
+				right : 100px;
+}
